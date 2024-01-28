@@ -9,7 +9,6 @@
 ## Table of content
 
 - [Features](#features)
-  - [Mood Enhancement Challenges](#mood-enhancement-challenges)
  
 - [How to Play](#how-to-play)
 
